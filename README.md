@@ -16,7 +16,7 @@ HermesFS is a modular file server designed to simplify the process of transferri
 ### Setup
 1. Clone the repository
 ```
-git clone https://github.com/YourUsername/HermesFS.git
+git clone https://github.com/HufferSec/HermesFS.git
 ```
 2. Navigate to the project directory and install dependencies
 ```
