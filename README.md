@@ -27,6 +27,10 @@ pip install -r requirements.txt
 ```
 python server.py
 ```
+4. (Optional) install into path
+```
+ln -s /opt/HermesFS/hermesfs.py /usr/local/bin
+```
 
 ## Usage
 Detailed usage instructions and examples will be updated soon.
